@@ -1,0 +1,234 @@
+﻿  main.cpp
+c:\users\111\source\repos\tanks\main.cpp(140): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(141): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(142): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(193): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(194): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(195): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\111\source\repos\tanks\main.cpp(403): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(442): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(451): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(450): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(451): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(454): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(453): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(457): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(456): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(462): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(461): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(462): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(464): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(463): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(467): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(466): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(476): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(475): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(476): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(479): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(478): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(482): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(481): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(487): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(486): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(487): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(489): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(488): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(492): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(491): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(524): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(529): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(530): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(536): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(540): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(544): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(548): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(629): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(634): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(722): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(728): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(741): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(747): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(772): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(806): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(816): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(815): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(816): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(819): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(818): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(822): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(821): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(827): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(826): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(827): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(829): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(828): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(832): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(831): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(841): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(840): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(841): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(844): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(843): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(847): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(846): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(852): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(851): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(852): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(854): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(853): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(857): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(856): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(889): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(894): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(895): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(901): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(905): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(909): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(913): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(993): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(998): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1087): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(1093): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(1106): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(1112): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\111\source\repos\tanks\main.cpp(1127): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1129): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1135): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1251): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1253): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1285): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1288): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1287): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1295): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1359): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1376): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1375): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1382): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1474): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1480): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1486): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1492): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1500): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1501): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\111\source\repos\tanks\main.cpp(1617): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  tanks.vcxproj -> C:\Users\111\source\repos\Debug\tanks.exe
